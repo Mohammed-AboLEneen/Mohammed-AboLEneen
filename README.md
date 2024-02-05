@@ -10,17 +10,17 @@ I am a Flutter developer with a strong background in mobile app development. I h
 
 ## Projects
 
-### Project 1: Awesome Weather App
+### Project 1: Fun Tourism App
 
-This weather app utilizes Flutter's rich UI components and integrates with a weather API to display real-time weather data. It showcases my skills in working with API integration, state management, and designing intuitive user interfaces.
+This Flutter application is designed to streamline trip management. It allows users to create personalized accounts, plan their own trips, and follow other users. By joining trips created by others, users can share experiences and enjoy their journeys together
 
-### Project 2: Flutter Chat Application
+### Project 2: Bookly App
 
-I developed this chat application using Flutter and Firebase. It includes features like real-time messaging, user authentication, and image sharing. This project demonstrates my expertise in working with Firebase services and implementing real-time communication features.
+View many books comes from google book API with ability to navigate using URL launcher to read it. this app has ability to handle errors and data comes form server.
 
-### Project 3: Flutter E-Commerce App
+### Project 3: Notes App
 
-The Flutter E-Commerce app is a fully functional mobile application for online shopping. It includes features like product listings, cart management, and secure payment integration. This project showcases my ability to build complex and scalable applications using Flutter.
+Save Notes in device local storage using Hive Package. Beautiful design with animations.
 
 ## Code Samples
 
@@ -32,6 +32,8 @@ I actively contribute to the Flutter open-source community by participating in f
 
 ## Contact Me
 
-If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com). Let's connect and create amazing Flutter projects together!
+email: mohammedaboleneen@gmail.com
+LinkedIn: https://www.linkedin.com/in/mohammadaboleneen/
+phone: +2001063970800
 
 Happy Fluttering! 🚀
