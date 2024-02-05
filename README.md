@@ -32,7 +32,7 @@ I actively contribute to the Flutter open-source community by participating in f
 
 ## Contact Me
 
-email: mohammedaboleneen@gmail.com
+email: mohammedaboleneen@gmail.com \n
 LinkedIn: https://www.linkedin.com/in/mohammadaboleneen/
 phone: +2001063970800
 
