@@ -23,16 +23,19 @@ I am a Flutter developer with a strong background in mobile app development. I h
 ## Projects
 
 ### Project 1: Fun Tourism App
+- This Flutter application is designed to streamline trip management. 
+- It allows users to create personalized accounts, plan their own trips, and follow other users.
+- By joining trips created by others, users can share experiences and enjoy their journeys together
 
-This Flutter application is designed to streamline trip management. It allows users to create personalized accounts, plan their own trips, and follow other users. By joining trips created by others, users can share experiences and enjoy their journeys together
+### Project 2: View Pdf Books App 
 
-### Project 2: Bookly App
+- View many pdf books comes from Firebase with ability to download it and display the content.
+- ability to heightlight any text and add to it a comment.
+- can show and edit the comment when click on heightlighted text.
 
-View many books comes from google book API with ability to navigate using URL launcher to read it. this app has ability to handle errors and data comes form server.
+### Project 3: Dashboard App 
 
-### Project 3: Notes App
-
-Save Notes in device local storage using Hive Package. Beautiful design with animations.
+Build a responsive ui work on all platforms with some animations to make the experince more better.
 
 ## Languages and Tools:
 
