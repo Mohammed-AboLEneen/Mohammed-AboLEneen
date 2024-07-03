@@ -33,9 +33,12 @@ I am a Flutter developer with a strong background in mobile app development. I h
 - ability to heightlight any text and add to it a comment.
 - can show and edit the comment when click on heightlighted text.
 
-### Project 3: Dashboard App 
+### Project 3: Online Tasks App
 
-Build a responsive ui work on all platforms with some animations to make the experince more better.
+- Account Creation: Users can create an account using their Gmail account or by providing an email and password.
+- Task Creation: Users can create tasks which are saved in the device's local storage and in Firestore.
+- Offline Support: When the device is offline, new tasks and changes are saved in local storage. Once the device is back online, these tasks are synced to Firestore.
+
 
 ## Languages and Tools:
 
