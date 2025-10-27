@@ -1,4 +1,3 @@
-<img width="250" align="right" src="https://github.com/wafaMohamed/wafaMohamed/assets/101423134/e136b979-c1da-4776-9dad-21362606a984" />
 
 <h3 align="center">
   Welcome To My Profile, Enjoy!
