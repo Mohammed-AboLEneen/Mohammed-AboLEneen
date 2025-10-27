@@ -17,7 +17,7 @@
 
 ## About Me
 
-I am a Flutter developer with a strong background in mobile app development. I have experience in creating cross-platform applications for both Android and iOS using Flutter and Dart programming language. I am enthusiastic about creating engaging user experiences and implementing clean and efficient code architecture.
+I am a Flutter developer with a strong background in mobile app development. I have experience with integrate Firebase services, local notifications and socket io(chat). I am enthusiastic about creating engaging user experiences and implementing clean and efficient code architecture.
 
 ## Projects
 
