@@ -39,16 +39,19 @@ I am a Flutter developer with a strong background in mobile app development. I h
 - This Flutter application is designed to streamline trip management.
 - It allows users to create personalized accounts, plan their own trips, and follow other users.
 - By joining trips created by others, users can share experiences and enjoy their journeys together.
+- [GitHub Link](https://github.com/Mohammed-AboLEneen/fun-tourism)
 
 ### Project 5: View Pdf Books App
 - View many PDF books from Firebase with the ability to download and display content.
 - Highlight any text and add comments to it.
 - Show and edit comments when clicking on highlighted text.
+- [GitHub Link](https://github.com/Mohammed-AboLEneen/View-Pdf-Books-App)
 
 ### Project 6: Online Tasks App
 - Account Creation: Users can create an account using their Gmail or email/password.
 - Task Creation: Tasks are saved in local storage and Firestore.
 - Offline Support: Tasks created offline are synced to Firestore once online.
+- [GitHub Link](https://github.com/Mohammed-AboLEneen/Online-Tasks-App)
 
 ## Languages and Tools
 
