@@ -22,6 +22,11 @@ I am a Flutter developer with a strong background in mobile app development. I h
 
 ## Projects
 
+### Project 1: Malbos
+- Commercial application for displaying and shipping used clothes.
+- Google play : https://play.google.com/store/apps/details?id=com.hwzn.malboos&pcampaignid=web_share
+- App Store : https://apps.apple.com/us/app/malbos/id6736588728
+  
 ### Project 1: Fun Tourism App
 - This Flutter application is designed to streamline trip management. 
 - It allows users to create personalized accounts, plan their own trips, and follow other users.
