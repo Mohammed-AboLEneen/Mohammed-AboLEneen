@@ -31,7 +31,7 @@ I am a Flutter developer with a strong background in mobile app development. I h
 - [Google Play](https://play.google.com/store/apps/details?id=com.hwzn.elmohtrfoon&pcampaignid=web_share)
 - [App Store](https://play.google.com/store/apps/details?id=com.hwzn.taaqod.sa&pcampaignid=web_share)
 
-### Project 3: تعاثد
+### Project 3: تعاقد
 - An application for creating and documenting electronic contracts.
 - [Google Play](https://play.google.com/store/apps/details?id=com.hwzn.taaqod.sa&pcampaignid=web_share)
 
